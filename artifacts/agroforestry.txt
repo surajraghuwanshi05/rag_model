@@ -1,0 +1,220 @@
+Agroforestry lit review (Draft)
+Introduction
+Climate change and loss of biodiversity seriously affects the well-being of humans and life on
+earth, including significant impact on food production and the agricultural system, which requires
+solutions that work well and are cost-effective. This review covers the literature on the effects of
+climate change on agriculture, food production, and farmers to explain the case for fighting climate
+change by increasing tree cover through agroforestry, which is a nature-based solution that
+integrates trees and shrubs into agricultural land, creating systems that enhance both ecological
+and economic resilience. This method not only combats land degradation but also restores soil
+health by improving nutrient cycling and increasing organic matter content, which is crucial in
+countries like India where significant portions of agricultural land suffers from degradation.
+Agroforestry effectively addresses multiple environmental challenges by not only enhancing
+biodiversity but also playing a significant role in carbon sequestration to mitigate climate change
+impacts. The increase in biodiversity by creating vital habitats for different plants and animals also
+supports ecosystem services such as pollination and soil health. Agroforestry is a crucial tool to
+fight climate change by sequestering carbon and revitalize degraded land which leads to better
+crop yields and higher incomes for farmers.
+Climate change's impact on farmer yields
+Climate change is increasingly disrupting agricultural productivity, particularly in regions reliant on
+rain-fed farming, by shifting temperatures and rainfall patterns, which in turn reduce crop yields and
+threaten food security (Castle et al., 2021). Farmers face growing challenges in resource
+management due to erratic weather, with rising temperatures, droughts, and floods negatively
+impacting soil moisture and crop growth. This is particularly severe in low- and middle-income
+countries, where agriculture is a key livelihood source, and farmers have limited resources to adapt
+(Castle et al., 2021).
+In India, the impact of climate change on staple crops like rice and wheat is especially concerning.
+Together, these crops occupy nearly half of the country’s arable land, with rice grown on 31% and
+wheat on 20%. Climate models project that between 2010 and 2039, yields of these crops could
+decline by 4.5–9%, and by 2070–2099, they may drop by at least 25%, unless adaptation
+strategies are implemented (Guiteras, 2009). This would pose a significant threat to food security
+and farmer incomes. Additionally, with over 60% of India’s cultivated land reliant on rain-fed
+systems, erratic rainfall patterns further exacerbate the vulnerability of agriculture, emphasizing the
+need for water-saving techniques and stable irrigation systems (Srinivasrao et al., 2015).
+Extreme weather events result in annual crop losses, which equate to about 0.25% of India’s GDP
+(MoEF, 2010). Beyond economic losses, the social impact is severe. As Carleton (2017) notes,
+growing debt burdens caused by yield reductions have led to a rise in farmer suicides.
+Furthermore, the agricultural sector is undergoing a demographic shift, with fewer cultivators and
+more agricultural laborers—a trend Gupta (2016) attributes to the increasing pressures on farming.
+This highlights the urgent need for more sustainable and resilient farming practices to secure
+livelihoods and food production.
+Farmers struggling with soil degradation and reasons for
+degradation
+Soil health is essential for sustainable agriculture, yet many farmers face challenges like erosion,
+nutrient loss, and compaction, often driven by conventional farming, deforestation, and climate
+change (Tomar et al., 2021; Fahad et al., 2022). These issues pose significant risks to agricultural
+productivity and global food security (Fahad et al., 2022).
+The Green Revolution, initiated by the Indian government in the 1960s, improved food security but
+also contributed to widespread land degradation. The heavy use of chemical fertilizers, pesticides,
+and high-yield seeds led to soil exhaustion, nutrient depletion, and biodiversity loss (Singh, 2000).
+Water-intensive crops in unsuitable regions further exacerbated groundwater depletion and
+salinization. Long-term effects include soil erosion and reduced fertility, particularly due to
+monoculture and unsustainable farming practices (Pingali, 2012).
+Deforestation and unsustainable agriculture further accelerate soil degradation by exposing soil to
+erosion and disrupting nutrient cycles (Fahad et al., 2022). Climate change compounds these
+issues by intensifying extreme weather events and altering rainfall patterns, worsening soil health.
+Globally, 24% of the world’s land is experiencing degradation, affecting 1.5 billion people (IPBES,
+2018). In India, 29% of the country’s land—about 96.4 million hectares—suffers from degradation
+due to deforestation, overgrazing, and unsustainable agricultural practices (ISRO, 2016). This
+threatens agricultural productivity, food security, and biodiversity.
+Soil degradation results in lower crop yields, reduced farm income, and increased restoration
+costs, making sustainable practices like agroforestry essential for restoring soil health and ensuring
+agricultural sustainability (Tomar et al., 2021; Fahad et al., 2022).
+Biodiverse agroforestry as a solution
+Biodiverse agroforestry, which integrates diverse trees, shrubs, crops, and livestock, fosters
+sustainable agriculture by enhancing soil health, pest control, and ecosystem services. This
+approach reduces dependency on chemical inputs through natural pest management supported by
+plant diversity (Salve et al., 2022; Singh et al., 2021).
+Agroforestry systems also increase yields and resource efficiency through intercropping and
+natural processes like nutrient cycling and carbon sequestration (Satish et al., 2024). Trees
+improve soil structure, reduce erosion, and boost water retention, all of which support crop growth
+(Sekhar et al., 2024). These systems also regulate water cycles and sequester carbon, mitigating
+climate change and stabilizing microclimates, providing resilience against weather extremes
+(Tschora & Cherubini, 2020; Schoeneberger, 2008).
+Agroforestry has the potential to restore degraded lands and improve agricultural productivity. An
+estimated 1 billion hectares of global agricultural land could benefit from agroforestry, representing
+43% of all agricultural land worldwide (Zomer et al., 2009). In India, the National Agroforestry
+Policy 2014 highlights the potential to rehabilitate 25 million hectares of degraded land through
+agroforestry, with the practice expandable to 65% of India’s agricultural land, improving soil health
+and farmer incomes.
+Agroforestry not only enhances soil health and agricultural resilience but also supports biodiversity,
+conserves water, and offers farmers diversified income sources through timber and other products
+(Fahad et al., 2022). This makes agroforestry a sustainable and economically viable strategy for
+climate adaptation and land restoration (Mondal et al., 2023).
+In summary, biodiverse agroforestry offers a sustainable solution by enhancing soil health,
+improving climate adaptation, and providing ecosystem services. Its adoption is crucial to
+addressing global challenges like food security, climate change, and environmental degradation.
+Agroforestry's impact on farmer incomes
+Agroforestry significantly increases farmer incomes by diversifying revenue streams and improving
+crop yields. Studies show that integrating trees into agricultural systems can boost yields by 20%
+to 50%, thanks to improved soil health, better water retention, and microclimate regulation (Pretty
+et al., 2018). Systems like alley cropping and silvopasture enhance nutrient cycling and reduce
+erosion, leading to higher productivity.
+Agroforestry also diversifies income sources by providing timber, fruits, and non-timber products,
+reducing farmers’ reliance on single crops and improving resilience (Pancholi et al., 2023). For
+example, in Madagascar, agroforestry systems that incorporate crops like vanilla and cocoa
+contribute significantly to exports (Andriatsitohaina et al., 2024). Studies estimate that agroforestry
+can boost farmer incomes by 30% to 60% through these diversified products and improved yields
+(Mbow et al., 2014).
+In Jharkhand, India, mango plantations supported by the Mahatma Gandhi National Rural
+Employment Guarantee Act (MGNREGA) have notably increased farmer incomes through crop
+diversification and higher yields, providing long-term economic benefits for rural communities
+(Dreze & Nair, 2023).
+This practice improves food security by diversifying both income and food sources, making farmers
+more resilient to market fluctuations and crop failures (Castle et al., 2021). It also contributes to
+rural development by empowering smallholders, fostering community initiatives, and building local
+skills (Satish et al., 2024; Singh et al., 2021).
+Agroforestry's impact on reversing soil degradation
+Agroforestry offers a highly effective solution to soil degradation by improving soil health and
+increasing ecosystem resilience (Salve et al., 2022; Fahad et al., 2022). The integration of trees
+stabilizes soil, reduces erosion, and enhances nutrient cycling, significantly increasing organic
+matter, which boosts soil fertility and water retention (Sekhar et al., 2024; Tomar et al., 2021; Wato
+& Amare, 2020). Trees contribute to nutrient cycling by capturing nutrients like nitrogen and
+phosphorus, gradually releasing them into the soil, reducing the need for external inputs (Fahad et
+al., 2022; Sekhar et al., 2024).
+Additionally, organic matter from tree litter improves soil structure, water retention, and fertility
+(Sekhar et al., 2024; Tomar et al., 2021). Research demonstrates that agroforestry can reduce soil
+erosion by up to 50%, increase soil organic carbon by 21%, and boost nitrogen and phosphorus
+availability by 46% and 11%, respectively, while also improving soil pH by 2% (Muchai et al., 2020).
+These improvements not only enhance soil health but also contribute to long-term agricultural
+productivity and sustainability.
+Agroforestry systems are especially effective in increasing soil organic carbon, improving soil
+structure, and boosting water retention, making them vital for enhancing resilience to climate
+change. As these systems maintain healthy soils essential for crop growth, they help mitigate
+climate change impacts by creating more resilient farming systems. By ensuring long-term
+productivity, agroforestry supports both environmental sustainability and the economic well-being of
+farming communities, providing a sustainable foundation for future generations to combat food
+insecurity and soil degradation challenges (Salve et al., 2022; Fahad et al., 2022).
+The capacity of restored soils to store more water
+Soil moisture retention is significantly improved through agroforestry, which enhances water
+availability for crops and promotes overall ecosystem health. Integrating trees into agricultural
+landscapes increases soil water storage by improving infiltration rates and reducing surface runoff.
+Deep-rooted trees create porous soils, allowing rainwater to penetrate effectively, reducing both
+erosion and waterlogging risks (Sekhar et al., 2024; Muchai et al., 2020).
+These systems also support groundwater recharge, vital for regions facing water scarcity (Kuyah et
+al., 2019). The increased soil moisture boosts drought resilience, helping crops during dry periods
+and enhancing food security in vulnerable areas (Sekhar et al., 2024). Studies show that water
+infiltration rates in agroforestry systems are about 75% higher compared to monocultures, thanks
+to organic inputs like leaf litter that improve soil structure and water-holding capacity (Muchai et al.,
+2020).
+Agroforestry and moderate tree cover's impact on replenishing
+the water table
+Agroforestry supports water resources by enhancing groundwater recharge and improving water
+quality (Castle et al., 2021; Kuyah et al., 2019). Trees in these systems increase water percolation,
+reduce surface runoff, and aid in water table replenishment (Kuyah et al., 2019). Their roots
+stabilize the soil, improving structure and aiding in water retention and erosion control (Castle et
+al., 2021). Moderate tree cover balances the hydrological cycle by intercepting rainfall, reducing
+runoff, and creating microclimates that minimize evaporation (Satish et al., 2024).
+Additionally, agroforestry improves water quality by reducing sedimentation and nutrient runoff,
+while stabilizing soil and absorbing excess nutrients (Castle et al., 2021; Kuyah et al., 2019).
+Practices such as contour planting and cover cropping further enhance these effects (Morya et al.,
+2023). Together, these benefits make agroforestry a valuable strategy for replenishing water tables,
+improving water quality, and fostering agricultural sustainability (Kuyah et al., 2019; Feliciano et al.,
+2017).
+The additional benefits of drip irrigation
+Drip irrigation, a water-efficient technique, significantly enhances agroforestry systems by
+delivering water directly to plant roots, reducing waste and conserving water resources, particularly
+in arid regions (Satish et al., 2024). By minimizing evaporation and runoff, drip irrigation greatly
+improves water use efficiency, ensuring crops receive consistent moisture while reducing weed
+growth and disease risks (Satish et al., 2024). This also helps lower herbicide use and prevents
+fungal infections, contributing to healthier crops and reducing input costs. Moreover, drip irrigation
+boosts crop productivity by improving nutrient uptake and enhancing soil aeration, leading to more
+vigorous plant growth (Satish et al., 2024).
+Another advantage of this system is its ability to apply fertilizers with precision, which reduces
+leaching and minimizes environmental impacts (Satish et al., 2024). When combined with
+agroforestry, drip irrigation provides additional synergies, such as enhanced soil moisture retention,
+microclimate regulation through tree shade, and better resource optimization, all of which support
+biodiversity, soil health, and water quality (Satish et al., 2024).
+In Maharashtra, research highlights that drip irrigation results in substantial water and energy
+savings, with farmers saving ₹1.1 lakh per hectare for sugarcane and ₹69.9 thousand per hectare
+for banana (Gorain et al., 2018). These savings in both water and electricity contribute significantly
+to cost reductions, while social benefits, such as off-farm employment, enhance the overall
+economic impact. However, social costs include government subsidies and investments in well
+construction. Despite these costs, the benefit-cost ratio of drip irrigation over 10 years was found to
+be 2.08 at a 10% discount rate (Gorain et al., 2018).
+By optimizing water use and boosting productivity, drip irrigation supports both ecological
+sustainability and economic resilience, making it a critical component of sustainable agroforestry
+systems (Satish et al., 2024).
+The importance of cash transfers and subsidies in helping
+farmers transition to agroforestry and sustainable
+environmental practices
+The transition to agroforestry often requires significant investments and changes in farming
+practices, posing considerable challenges for smallholder farmers in low-income regions (Castle et
+al., 2021; Wato & Amare, 2020). Estimates from F4F’s work indicate that the cost to transition
+ranges from $1800 to $2000 per hectare or $1.5 to $2 per tree. Similarly, in the Brazilian Amazon,
+costs have been estimated between $1500 and $2000 per hectare. While passive reforestation or
+assisted natural regeneration (helping the forest grow back in areas where it already existed) is
+significantly cheaper, transitioning to agroforestry on agricultural lands is expensive given the
+extent of soil degradation on these lands.
+Cash transfers are a key tool in supporting farmers through this transition by reducing financial
+barriers and promoting long-term investments. Agroforestry practices, which improve soil health
+and carbon sequestration, often come with upfront costs for seedlings, labor, and maintenance,
+making adoption difficult for resource-constrained farmers. Jayachandran et al. (2017) found that
+cash transfers help offset these costs and provide short-term income security, encouraging the
+adoption of sustainable land-use practices. Financial support has been shown to significantly
+increase participation rates in agroforestry programs, leading to better environmental outcomes
+and enhanced rural livelihoods.
+In addition to supporting agroforestry, cash transfers play a crucial role in reducing deforestation by
+offering financial support to rural communities, enabling them to adopt sustainable practices
+(Hance, 2017). The lack of funds often serves as a major barrier to implementing solutions that
+could reduce deforestation rates. Financial incentives help mitigate the economic pressures faced
+by communities, leading to more sustainable land use and conservation efforts.
+A regression discontinuity analysis of Mexico’s National Program demonstrates the potential of
+cash transfers to balance ecological goals with socioeconomic benefits. The program showed that
+financial support not only reduced deforestation but also improved social outcomes, providing
+long-term benefits for local communities (Alix-Garcia et al., 2019).
+By linking financial support to sustainable practices, policymakers can encourage the planting of
+tree species that improve ecosystem services, such as nitrogen-fixers or drought-tolerant varieties
+(Castle et al., 2021). Cash transfers also act as a safety net against climate risks, enabling farmers
+to invest in climate-resilient agroforestry systems, which are essential in regions facing increasingly
+unpredictable weather patterns (Gifawesen et al., 2020; Sekhar et al., 2024).
+However, financial support alone is not sufficient. Training programs are essential for equipping
+farmers with the knowledge needed for successful agroforestry, such as tree selection, planting
+techniques, and product marketing (Satish et al., 2024; Verma et al., 2016). Furthermore, effective
+policy frameworks should address issues such as land tenure, market development, and equitable
+access to resources, ensuring long-term success in agroforestry adoption (Castle et al., 2021;
+Wato & Amare, 2020).
+In summary, cash transfers, subsidies, education, and supportive policies are vital to fostering the
+adoption of agroforestry. This approach not only enhances environmental sustainability but also
+promotes rural development, providing smallholder farmers with the tools and financial support
+necessary to thrive in the face of climate challenges (Castle et al., 2021; Wato & Amare, 2020).

@@ -1,0 +1,13 @@
+langchain_core
+streamlit
+langchain_community
+langserve
+fastapi
+uvicorn
+sse_starlette
+PyPDF
+sentence-transformers
+faiss-cpu
+mysql.connector
+flask
+flask_sqlalchemy
