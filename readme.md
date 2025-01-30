@@ -7,8 +7,8 @@ This project implements a Retrieval-Augmented Generation (RAG) model-based chatb
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/surajraghuwanshi05/rag_model.git
+   cd https://github.com/surajraghuwanshi05/rag_model.git
    ```
    
 
